@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on MBA
+- 🌱 I’m currently learning finance and linear programming
 <!--
 **keeluck/keeluck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
